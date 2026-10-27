@@ -1,4 +1,4 @@
-[English](README.md) | [Русский](README.ru.md)
+[English](README.md) | [Русский](README.ru.md) | [עברית](README.he.md)
 
 <div align="center">
 
@@ -12,7 +12,7 @@ RightLayout fixes your keyboard layout mistakes before you notice them.
 
 ---
 
-*[English](README.md) · [Русский](README.ru.md) · Hebrew*
+*[English](README.md) · [Русский](README.ru.md) · [עברית](README.he.md)*
 
 *macOS 13+ · Free · Open Source*
 
